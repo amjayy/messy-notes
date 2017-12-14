@@ -1,0 +1,20 @@
+ordered & mutable collection of values of any type
+
+stacks
+lifo last in first out
+from collections import deque
+favorite_books = deque()
+favorite_books.append('Little Brother)
+favorite_books.append('winnie the pooh)
+favorite_books.append ('Dune)
+pop= removes and returns last item
+book= favorite_books.pop()
+book
+stacks
+
+Que
+from collections import deque
+orders = deque()
+order =order.popleft()
+removes first item rather than the last one
+first one in first one out

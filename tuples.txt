@@ -1,0 +1,12 @@
+tuples 
+an ordered & imutable collection of any type
+names = (barry, iris, cisco, 159)
+ordered
+alter-ego = names[0]
+immutable
+names.append(Ralph) <<<<nope
+#mutable objects within can be changed
+tuple = (12[Hello, Bonjour]) the 12 is immutable but Hellp Bonjour is mutable
+tuple[1].append(guten tag)
+(1) represents the list
+
